@@ -12,10 +12,14 @@
 
 进程间通信解决哲学家就餐问题，重新生成 `Philosopher` , 将 `PhilosophersDinner` 设置为启动项目。
 
-### 1.3 用户级多线程实现文件拷贝
+### 1.3 多线程排序
+
+详见 `MultithreadedArraySort` 。
+
+### 1.4 用户级多线程实现文件拷贝
 
 详见 `ConcurrentFileCopy` 。
 
-### 1.4 内核级多线
+### 1.5 内核级多线
 
 详见 `ThreadApp` 。
